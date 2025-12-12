@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウェルカム・トゥ・ニューヨーク（テイラーズ・ヴァージョン）",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-12T04:03:31.421566Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Welcome To New York (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Welcome_To_New_York_(Taylor's_Version)_Taylor_Swift.txt"
+    }
+  ]
+}
